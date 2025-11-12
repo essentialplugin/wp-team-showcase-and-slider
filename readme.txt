@@ -2,8 +2,8 @@
 Contributors: essentialplugin
 Tags: responsive team showcase slider, team showcase rotator, responsive team showcase carousel, team showcase members profile and skills, team showcase social with slider,
 Requires at least: 4.0
-Tested up to: 6.8.1
-Stable tag: 2.8.4
+Tested up to: 6.8.3
+Stable tag: 2.8.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -166,6 +166,9 @@ You can use same parameter with slider shortcode.
 7. Also work with Gutenberg shortcode block.
 
 == Changelog ==
+
+= 2.8.5 (12, Nov 2025) =
+* [*] Check compatibility with WordPress version 6.8.3
 
 = 2.8.4 (16, May 2025) =
 * [*] Check compatibility with WordPress version 6.8.1
