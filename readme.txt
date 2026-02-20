@@ -2,7 +2,7 @@
 Contributors: essentialplugin
 Tags: responsive team showcase slider, team showcase rotator, responsive team showcase carousel, team showcase members profile and skills, team showcase social with slider,
 Requires at least: 4.0
-Tested up to: 6.8.3
+Tested up to: 6.9.1
 Stable tag: 2.8.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
